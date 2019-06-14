@@ -1,0 +1,1 @@
+Ez egy egyszerû lábléc - html komponens, nagyobb kódolások részeként felhasználható.

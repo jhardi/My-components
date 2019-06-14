@@ -1,0 +1,19 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  margin-bottom: 4.9rem;
+}
+
+.footer {
+  background-color: #f1eadf;
+  font-size: 2rem;
+  text-align: center;
+  padding: .7rem;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 50px;
+}
